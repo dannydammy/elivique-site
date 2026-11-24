@@ -1,0 +1,16 @@
+{
+  "_note": "Products listed here are NOT shown anywhere on the site, even though they exist in the Offer Master. Remove an ID from this list once Daniel has approved it for sale. Reasons are from the Master Source of Truth, section 5.",
+  "hidden": {
+    "R-CAR-01": "Retainer deliverables are proposed, not defined (Open decision 2: define before listing on the site).",
+    "R-JOB-01": "Retainer deliverables are proposed, not defined (Open decision 2).",
+    "R-GRA-01": "Grant Alert: sell or drop is undecided (Open decision 3).",
+    "R-BIZ-01": "Retainer deliverables are proposed, not defined (Open decision 2).",
+    "R-AI-01": "Retainer deliverables are proposed, not defined (Open decision 2).",
+    "X-01": "Bundle repricing undecided: decide before the site publishes prices (Open decision 4).",
+    "X-02": "Bundle repricing undecided (Open decision 4).",
+    "X-03": "Bundle repricing undecided (Open decision 4).",
+    "X-04": "Bundle repricing undecided (Open decision 4).",
+    "X-05": "Bundle repricing undecided (Open decision 4).",
+    "X-06": "Bundle repricing undecided (Open decision 4)."
+  }
+}

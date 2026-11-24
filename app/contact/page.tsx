@@ -6,7 +6,7 @@ import { site } from "@/lib/site";
 
 export const metadata = pageMeta({
   title: "Contact | Elivique",
-  description: "WhatsApp is fastest. The form reaches the same inbox.",
+  description: "WhatsApp is fastest. Messages sent through the form reach our team too.",
   path: "/contact",
 });
 
@@ -14,7 +14,7 @@ export default async function ContactPage({ searchParams }: { searchParams: Prom
   const { error, package: preselect } = await searchParams;
   return (
     <>
-      <Hero compact eyebrow="Contact" title="Talk to us." sub="WhatsApp is fastest. The form reaches the same inbox.">
+      <Hero compact eyebrow="Contact" title="Talk to us." sub="WhatsApp is fastest. Messages sent through the form reach our team too.">
         <WhatsAppButton topic="your services (from the Contact page)" variant="primary" />
       </Hero>
 

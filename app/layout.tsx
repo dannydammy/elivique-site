@@ -37,7 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 {nav.map((n) => (
                   <li key={n.href}><Link href={n.href}>{n.label}</Link></li>
                 ))}
-                <li><Link href="/account" className="member-link">Member sign in</Link></li>
+                <li><Link href="/account" className="member-link">Member area</Link></li>
               </ul>
             </nav>
           </div>
